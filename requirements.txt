@@ -1,0 +1,15 @@
+# Web framework for the UI
+flask==3.0.0
+
+# HTTP library for making requests to Jira API
+requests==2.31.0
+
+# Data manipulation and analysis (for stats calculation)
+pandas==2.1.4
+
+# Google API client libraries
+google-api-python-client==2.111.0
+google-auth==2.26.1
+
+# For loading environment variables from .env file
+python-dotenv==1.0.0
